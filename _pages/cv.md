@@ -13,45 +13,45 @@ Education
 ======
 * B.S. in Computer Engineering, University of Illinois Champaign-Urbana, 2019
 
-Work experience
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Software Engineering Intern - Cyber Group
+  * LGS Innovations
+  * Reverse engineered complex multithreaded software samples
+  * Developed application for memory patching multithreaded applications
+
+
+* Summer 2016: IT Intern - Cyber Security Defence Center
+  * State Farm Insurance
+  * Developed extensive documentation for handling various network security risks
+  * Worked with Security Information and Event Management team to develop 
+    network security risk detection methods using IBM’s security platform QRadar
+
+
+* Summer 2015: IT Intern - Platform Innovation
+  * State Farm Insurance
+  * Worked with team of interns to maintain and extend the capabilities of State Farm’s Apache Tomcat servers
+  * Developed Android application for voice command menu navigation of State farm services
+
+  
+Research Experience
+======
+* Automated Software Engineering Lab, University of Illinois, Research Assistant
+  * Improved performance of grammar inference algorithm using symbolic execution
+  * Investigated  methods by which malicious APK files can evade statistical source-sink analysis
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, C, C++,  Java, x86, ARM, IDA Pro, Radare2, GDB
+  
+Campus Involvement
+======
+* Sigpwny
+  * Practice for and compete in CTF competitions
+* Illinois Cyber Security Scholars Program 
+  * Perform security related outreach and participate in security competitions
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reilex: Symbolic Execution Engine for Reverse Engineering Intermediate Language (REIL) (Found on my Github)
