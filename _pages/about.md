@@ -11,7 +11,7 @@ redirect_from:
 I am a third year PhD student at University of California San Diego advised by <a href="https://cseweb.ucsd.edu//~dstefan/">Deian Stefan</a>
  and <a href="https://cseweb.ucsd.edu/~savage/"> Stefan Savage</a>. My research focuses on software sandboxing, verified programming, and WebAssembly security. 
 
-I completed my undergraduate degrees in Computer Engineering at University of Illinois Urbana-Champaign.
+I completed my undergraduate degree in Computer Engineering at University of Illinois Urbana-Champaign.
 
 
 {% include base_path %}
