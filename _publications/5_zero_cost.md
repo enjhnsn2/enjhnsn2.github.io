@@ -16,7 +16,7 @@ POPL 2022 <br>
  | 
 <a href="https://github.com/PLSysSec/zerocost_root">code</a>
  | 
-<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:HF90JuouaP8J:scholar.google.com/&output=citation&scisdr=CgXpdWU2EIuyuFZMwhU:AAGBfm0AAAAAYqFJ2hWaRA_sFHaard0hDCXnvFmE4M9z&scisig=AAGBfm0AAAAAYqFJ2k0igTJ4CTVM5VuVcr0yGa6TLcGK&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1">bibtex</a>
+<a href="https://cseweb.ucsd.edu//~dstefan/pubs/kolosick:2022:isolation.bib">bibtex</a>
 ]
 
 </td>
