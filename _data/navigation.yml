@@ -1,7 +1,15 @@
 # main links links
 main:
   - title: "Publications"
-    url: #publications
+    url: /about#publications
+
+  - title: "Unpublished Work"
+    url: /about#unpublished
+
+  - title: "Awards"
+    url: /about#awards
+
+
 
   # - title: "Talks"
   #   url: /talks/    
