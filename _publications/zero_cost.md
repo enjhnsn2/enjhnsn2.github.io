@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+layout: publication
+inline: true
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+<tr valign="top">
+<td class="bibtexnumber" align="right">
+[1]
+</td>
+<td class="bibtexitem">
+Matthew Kolosick, Shravan Narayan, Evan Johnson Conrad Watt, Michael LeMay, Deepak Garg, Ranjit Jhala, and Deian Stefan.
+<a href="https://dl.acm.org/doi/pdf/10.1145/3498688">Isolation without Taxation: Near Zero Cost Transitions for WebAssembly and SFI</a>
+POPL 2022 <br> 
+[paper | code | bibtex]
+</td>
+</tr>

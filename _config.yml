@@ -187,6 +187,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  unpublished: 
+    output: true
+    permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -223,7 +229,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: publication
       author_profile: true
       share: true
       comments: true
