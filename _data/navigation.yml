@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Publications"
-    url: /about#publications
+    url: /#publications
 
   - title: "Unpublished Work"
-    url: /about#unpublished
+    url: /#unpublished
 
   - title: "Awards"
-    url: /about#awards
+    url: /#awards
 
 
 
