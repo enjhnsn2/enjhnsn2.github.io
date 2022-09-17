@@ -36,12 +36,5 @@ I completed my undergraduate degree in Computer Engineering at University of Ill
 
 
 
-<a id="awards"></a> 
-<h2>Awards</h2>
-
-{% for post in site.awards reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 
 
