@@ -3,9 +3,9 @@ layout: publication
 inline: true
 ---
 <tr valign="top">
-<td class="bibtexnumber" align="right">
+<!-- <td class="bibtexnumber" align="right">
 [5]
-</td>
+</td> -->
 <td class="bibtexitem">
 Zhengkai Wu, Evan Johnson, Wei Yang, Osbert Bastani, Dawn Song, Jian Peng, and
 Tao Xie.

@@ -3,9 +3,9 @@ layout: publication
 inline: true
 ---
 <tr valign="top">
-<td class="bibtexnumber" align="right">
+<!-- <td class="bibtexnumber" align="right">
 [3]
-</td>
+</td> -->
 <td class="bibtexitem">
 Shravan Narayan, Craig Disselkoen, Daniel Moghimi, Sunjay Cauligi, Evan Johnson, Zhao Gang, Anjo Vahldiek-Oberwagner, Ravi Sahita, Hovav Shacham, Dean Tullsen, Deian Stefan
 <b>Swivel: Hardening WebAssembly against Spectre</b>

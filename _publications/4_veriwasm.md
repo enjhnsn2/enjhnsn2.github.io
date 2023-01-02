@@ -3,9 +3,9 @@ layout: publication
 inline: true
 ---
 <tr valign="top">
-<td class="bibtexnumber" align="right">
+<!-- <td class="bibtexnumber" align="right">
 [2]
-</td>
+</td> -->
 <td class="bibtexitem">
 Evan Johnson, David Thien, Yousef Alhessi, Shravan Narayan, Fraser Brown, Sorin Lerner, Tyler McMullen, Stefan Savage, and Deian Stefan.
 <b>Доверяй, но проверяй: SFI safety for native-compiled Wasm</b>

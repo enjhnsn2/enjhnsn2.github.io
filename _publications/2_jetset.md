@@ -3,9 +3,9 @@ layout: publication
 inline: true
 ---
 <tr valign="top">
-<td class="bibtexnumber" align="right">
+<!-- <td class="bibtexnumber" align="right">
 [4]
-</td>
+</td> -->
 <td class="bibtexitem">
 Evan Johnson, MaxWell Bland, YiFei Zhou, Joshua Mason, Stephen Checkoway, Stefan Savage and
 Kirill Levchenko.
