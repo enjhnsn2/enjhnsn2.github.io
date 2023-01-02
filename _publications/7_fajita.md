@@ -4,9 +4,9 @@ inline: true
 ---
 
 <tr valign="top">
-<!-- <td class="bibtexnumber" align="right">
-[1]
-</td> -->
+<td class="bibtexnumber" align="right">
+[3]
+</td>
 <td class="bibtexitem">
 David Thien, Michael Smith, Evan Johnson, Sorin Lerner, Hovav Shacham, Deian Stefan, and Fraser Brown.
 <b>FaJITa: Verifying Optimizations on Just-In-Time Programs</b>
