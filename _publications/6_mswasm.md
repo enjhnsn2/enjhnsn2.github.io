@@ -10,7 +10,7 @@ inline: true
 <td class="bibtexitem">
 Alexandra E. Michael, Anitha Gollamudi, Jay Bosamiya, Evan Johnson, Aidan Denlinger, Craig Disselkoen, Conrad Watt, Bryan Parno, Marco Patrignani, Marco Vassena, and Deian Stefan.
 <b>MSWasm: Soundly Enforcing Memory-Safe Execution of Unsafe Code</b>
-To appear in POPL 2023 <br> 
+POPL 2023 <br> 
 <!-- [ 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3498688">paper</a>
  | 

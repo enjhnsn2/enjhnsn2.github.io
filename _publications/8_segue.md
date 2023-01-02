@@ -10,7 +10,7 @@ inline: true
 <td class="bibtexitem">
 Shravan Narayan, Tal Garfinkel, Evan Johnson, David Thien, Joey Rudek, Michael LeMay, Anjo Vahldiek-Oberwagner, Dean Tullsen, and Deian Stefan.
 <b>Segue & ColorGuard: Optimizing SFI Performance and Scalability on Modern x86</b>
-To appear in PLAS 2023 <br> 
+PLAS 2023 <br> 
 [ 
 <a href="https://plas2022.github.io/files/pdf/SegueColorGuard.pdf">paper</a>
  <!-- | 

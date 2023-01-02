@@ -10,7 +10,7 @@ inline: true
 <td class="bibtexitem">
 David Thien, Michael Smith, Evan Johnson, Sorin Lerner, Hovav Shacham, Deian Stefan, and Fraser Brown.
 <b>FaJITa: Verifying Optimizations on Just-In-Time Programs</b>
-To appear in POPL 2023 <br> 
+PriSC 2023 <br> 
 <!-- [ 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3498688">paper</a>
  | 
