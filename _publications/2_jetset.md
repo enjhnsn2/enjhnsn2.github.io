@@ -7,7 +7,7 @@ inline: true
 [8]
 </td>
 <td class="bibtexitem">
-Evan Johnson, MaxWell Bland, YiFei Zhou, Joshua Mason, Stephen Checkoway, Stefan Savage and
+Evan Johnson, Maxwell Bland, YiFei Zhou, Joshua Mason, Stephen Checkoway, Stefan Savage and
 Kirill Levchenko.
 <b>Jetset: Targeted Firmware Rehosting for Embedded Systems.</b>
 USENIX Security Symposium 2021. <br> 
