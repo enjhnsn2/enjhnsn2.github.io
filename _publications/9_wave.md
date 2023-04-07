@@ -14,8 +14,8 @@ IEEE S&P 23 <br>
 [ 
 <a href="https://cseweb.ucsd.edu/~dstefan/pubs/johnson:2023:wave.pdf">paper</a>
  | 
-<!-- <a href="https://github.com/PLSysSec/zerocost_root">code</a>
- |  -->
+<a href="https://github.com/PLSysSec/wave">code</a>
+ |
 <a href="https://cseweb.ucsd.edu/~dstefan/pubs/johnson:2023:wave.bib">bibtex</a>
 ]
 
