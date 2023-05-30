@@ -4,7 +4,6 @@ inline: true
 ---
 <tr valign="top">
 <td class="bibtexnumber" align="right">
-[1]
 </td>
 <td class="bibtexitem">
 Mathias Brossard, Guilhem Bryant, Basma El Gaabouri, Xinxin Fan, Alexandre Ferreira, Edmund Grimley-Evans, Christopher Haster, Evan Johnson, Derek Miller, Fan Mo, Dominic P Mulligan, Nick Spinale, Eric Van Hensbergen, Hugo JM Vincent, Shale Xiong
