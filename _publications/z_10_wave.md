@@ -10,7 +10,7 @@ inline: true
 Evan Johnson, Evan Laufer, Zijie Zhao, Dan Gohman, Shravan Narayan, Stefan Savage, Deian Stefan, and Fraser Brown.
 <b>WaVe: a verifiably secure WebAssembly sandboxing runtime</b>
 IEEE S&P 23 
-<b> Distinguished Paper </b><br> 
+<b> <font color="blue"> Distinguished Paper </b>  </font> <br> 
 [ 
 <a href="https://cseweb.ucsd.edu/~dstefan/pubs/johnson:2023:wave.pdf">paper</a>
  | 
