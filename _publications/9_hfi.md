@@ -18,7 +18,7 @@ IEEE S&P 23
  |  -->
 <a href="https://dl.acm.org/doi/abs/10.1145/3582016.3582023">bibtex</a>
 ]
-<b> Distinguished Paper! </b>
+<b> Distinguished Paper </b>
 
 
 </td>
