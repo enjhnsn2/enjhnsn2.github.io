@@ -4,7 +4,6 @@ inline: true
 ---
 <tr valign="top">
 <td class="bibtexnumber" align="right">
-[6]
 </td>
 <td class="bibtexitem">
 Evan Johnson, David Thien, Yousef Alhessi, Shravan Narayan, Fraser Brown, Sorin Lerner, Tyler McMullen, Stefan Savage, and Deian Stefan.

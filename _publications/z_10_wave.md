@@ -5,7 +5,6 @@ inline: true
 
 <tr valign="top">
 <td class="bibtexnumber" align="right">
-[1]
 </td>
 <td class="bibtexitem">
 Evan Johnson, Evan Laufer, Zijie Zhao, Dan Gohman, Shravan Narayan, Stefan Savage, Deian Stefan, and Fraser Brown.

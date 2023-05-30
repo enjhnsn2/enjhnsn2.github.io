@@ -5,7 +5,6 @@ inline: true
 
 <tr valign="top">
 <td class="bibtexnumber" align="right">
-[5]
 </td>
 <td class="bibtexitem">
 Matthew Kolosick, Shravan Narayan, Evan Johnson, Conrad Watt, Michael LeMay, Deepak Garg, Ranjit Jhala, and Deian Stefan.

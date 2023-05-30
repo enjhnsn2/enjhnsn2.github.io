@@ -4,7 +4,6 @@ inline: true
 ---
 <tr valign="top">
 <td class="bibtexnumber" align="right">
-[9]
 </td>
 <td class="bibtexitem">
 Zhengkai Wu, Evan Johnson, Wei Yang, Osbert Bastani, Dawn Song, Jian Peng, and

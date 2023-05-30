@@ -4,7 +4,6 @@ inline: true
 ---
 <tr valign="top">
 <td class="bibtexnumber" align="right">
-[8]
 </td>
 <td class="bibtexitem">
 Evan Johnson, Maxwell Bland, YiFei Zhou, Joshua Mason, Stephen Checkoway, Stefan Savage and

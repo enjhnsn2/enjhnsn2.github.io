@@ -5,7 +5,6 @@ inline: true
 
 <tr valign="top">
 <td class="bibtexnumber" align="right">
-[4]
 </td>
 <td class="bibtexitem">
 Alexandra E. Michael, Anitha Gollamudi, Jay Bosamiya, Evan Johnson, Aidan Denlinger, Craig Disselkoen, Conrad Watt, Bryan Parno, Marco Patrignani, Marco Vassena, and Deian Stefan.
