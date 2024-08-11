@@ -1,10 +1,12 @@
 # main links links
 main:
+  - title: "About Me"
+    url: /#aboutme
+
   - title: "Publications"
     url: /#publications
 
-  - title: "Unpublished Work"
-    url: /#unpublished
+
 
   #- title: "Awards"
   #url: /#awards
