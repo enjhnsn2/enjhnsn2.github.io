@@ -8,7 +8,9 @@ inline: true
 <td class="bibtexitem">
 Evan Johnson, David Thien, Yousef Alhessi, Shravan Narayan, Fraser Brown, Sorin Lerner, Tyler McMullen, Stefan Savage, and Deian Stefan.
 <b>Доверяй, но проверяй: SFI safety for native-compiled Wasm</b>
-Network and Distributed System Security Symposium (NDSS) 2021. <br> 
+Network and Distributed System Security Symposium (NDSS) 2021. <br>
+<b> &#127941; Applied Research Competition Finalist, CSAW 2021</b> 
+<br>
 [ 
 <a href="https://cseweb.ucsd.edu//~dstefan/pubs/johnson:2021:veriwasm.pdf">paper</a>
  | 
