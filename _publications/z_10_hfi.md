@@ -20,9 +20,11 @@ ASPLOS 23
 [ 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3582016.3582023">paper</a>
  | 
-<!-- <a href="https://github.com/PLSysSec/zerocost_root">code</a>
- |  -->
+<a href="https://github.com/PLSysSec/hfi-root">code</a>
+ | 
 <a href="https://dl.acm.org/doi/abs/10.1145/3582016.3582023">bibtex</a>
+ | 
+<a href="https://www.youtube.com/watch?v=PB8AeCx4TuI">video</a>
 ]
 
 

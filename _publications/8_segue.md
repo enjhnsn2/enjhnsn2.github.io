@@ -13,9 +13,9 @@ PLAS 2023 <br>
 [ 
 <a href="https://plas2022.github.io/files/pdf/SegueColorGuard.pdf">paper</a>
  <!-- | 
-<a href="https://github.com/PLSysSec/zerocost_root">code</a>
+<a href="https://github.com/PLSysSec/zerocost_root">code</a> -->
  | 
-<a href="https://cseweb.ucsd.edu//~dstefan/pubs/kolosick:2022:isolation.bib">bibtex</a> -->
+<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:z0YgvGwAasQJ:scholar.google.com/&output=citation&scisdr=ClH1rc1DEKbDww-NCho:AFWwaeYAAAAAZrqLEhpSu7LQS0FI_VBIk6rMv7c&scisig=AFWwaeYAAAAAZrqLEkWUTTtqknHaVaNjwoYdsC8&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1">bibtex</a> 
 ]
 
 </td>
