@@ -13,7 +13,7 @@ ASPLOS 23
 <br>
 <b> &#127941; Distinguished Paper</b>
 <br>
-<b> &#127941; Intel Hardware Security Academic Award (IHSAA 2024) Finalist</b>
+<b> &#127941; Intel Hardware Security Academic Award Honorable Mention</b>
 <br>
 <b> &#127941; IEEE Micro Top Picks (2024)</b>
 <br> 
