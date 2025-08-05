@@ -12,5 +12,10 @@ Michael LeMay, Wenyong Huang, Xin Wang, Mingqiu Sun, Dean Tullsen, and Deian Ste
 <b>Segue & ColorGuard: Optimizing SFI Performance and Scalability on Modern Architectures</b>
 ASPLOS 25
 <br> 
+[ 
+<a href="https://dl.acm.org/doi/pdf/10.1145/3669940.3707249">paper</a>
+ | 
+<a href="/files/colorguard.bib.html">bibtex</a>
+]
 </td>
 </tr>
