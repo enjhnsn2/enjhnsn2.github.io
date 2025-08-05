@@ -18,7 +18,7 @@ IEEE S&P 23
  | 
 <a href="https://github.com/PLSysSec/wave">code</a>
  |
-<a href="/files/veracruz.bib.html">bibtex</a>
+<a href="/files/wave.bib.html">bibtex</a>
 ]
 
 </td>
