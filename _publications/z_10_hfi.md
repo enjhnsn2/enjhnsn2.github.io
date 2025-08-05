@@ -22,7 +22,7 @@ ASPLOS 23
  | 
 <a href="https://github.com/PLSysSec/hfi-root">code</a>
  | 
-<a href="/files/veracruz.bib.html">bibtex</a>
+<a href="/files/hfi.bib.html">bibtex</a>
  | 
 <a href="https://www.youtube.com/watch?v=PB8AeCx4TuI">video</a>
 ]
