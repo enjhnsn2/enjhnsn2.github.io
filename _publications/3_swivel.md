@@ -14,7 +14,7 @@ USENIX Security Symposium 2021. <br>
  | 
 <a href="https://github.com/PLSysSec/swivel">code</a>
  | 
-<a href="https://cseweb.ucsd.edu//~dstefan/pubs/narayan:2021:swivel.bib">bibtex</a>
+<a href="/files/swivel.bib.html">bibtex</a>
 ]
 </td>
 </tr>
