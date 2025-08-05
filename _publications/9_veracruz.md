@@ -16,7 +16,7 @@ IEEE Transactions on Emerging Topics in Computing , 2023. <br>
  |
 <a href="https://github.com/veracruz-project/veracruz">code</a>
  | 
-<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:rL7-DvvO2AUJ:scholar.google.com/&output=citation&scisdr=ClHYYu42EKbDwwwM0VU:AFWwaeYAAAAAZrkKyVUUr6XfgorTzslIKwFsjSY&scisig=AFWwaeYAAAAAZrkKyfNQlZkLvjYUmGmTgCF6QKE&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1">bibtex</a>
+<a href="/files/veracruz.bib.html">bibtex</a>
 ]
 </td>
 </tr>

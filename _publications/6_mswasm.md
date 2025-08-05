@@ -15,7 +15,7 @@ POPL 2023 <br>
  | 
 <a href="https://github.com/PLSysSec/mswasm-wasi-sdk">code</a>
  | 
-<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:O0mFsy1uP8IJ:scholar.google.com/&output=citation&scisdr=ClH1rc1DEKbDww-IFd0:AFWwaeYAAAAAZrqODd0B710eIAdzM07Xe0DEd00&scisig=AFWwaeYAAAAAZrqODSpaKGGuCZmcvPM64vBE2E4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1">bibtex</a>
+<a href="/files/mswasm.bib.html">bibtex</a>
 ] 
 
 </td>

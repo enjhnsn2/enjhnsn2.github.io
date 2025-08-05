@@ -13,8 +13,7 @@ PriSC 2023 <br>
 [ 
 <a href="https://par.nsf.gov/servlets/purl/10442503">paper</a>
  | 
-<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:EJVzfEQrQpQJ:scholar.google.com/&output=citation&scisdr=ClH1rc1DEKbDww-Nzic:AFWwaeYAAAAAZrqL1ickjFa1uQqjynkzpbJRyRw&scisig=AFWwaeYAAAAAZrqL1vwn7sOevonb-sOsCnVcG4g&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1">bibtex</a>
+<a href="/files/fajita.bib.html">bibtex</a>
 ] 
-
 </td>
 </tr>
